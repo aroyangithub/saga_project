@@ -1,0 +1,6 @@
+export const LINK_USERS='https://jsonplaceholder.typicode.com/users'
+export const LINK_COMMENTS='https://jsonplaceholder.typicode.com/comments'
+export const LINK_POSTS='https://jsonplaceholder.typicode.com/posts'
+export const LINK_PHOTOS='https://jsonplaceholder.typicode.com/photos'
+export const LINK_TODOS='https://jsonplaceholder.typicode.com/todos'
+export const LINK_ALBUMS='https://jsonplaceholder.typicode.com/albums'

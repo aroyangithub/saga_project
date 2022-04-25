@@ -1,0 +1,38 @@
+table,
+tr,
+td {
+  border: 2px solid black;
+}
+tr,
+td {
+  width: 200px;
+  height: 50px;
+  text-align: center;
+}
+nav{
+
+  background-color: darkgreen;
+
+}
+li{
+
+  text-decoration: none;
+  list-style: none;
+  color: black !important;
+  font-size: 15px;
+  padding: 20px;
+  font-weight: bold;
+
+  
+
+}
+
+ul{
+
+  display: inline-flex;
+  
+}
+
+li:hover{
+  color: white;
+}
